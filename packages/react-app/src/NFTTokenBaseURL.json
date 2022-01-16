@@ -1,0 +1,23 @@
+[
+    {
+      "id": 0,
+      "description": "Unrugged Member 0",
+      "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+      "image": "https://gateway.pinata.cloud/ipfs/Qmaw9wkC3igNjWXUSoDMuRqAW5fb5bGv3W3TaePhFF4xdZ",
+      "name": "Unrugged #0"
+    },
+    {
+      "id": 1,
+      "description": "Unrugged Member 1",
+      "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+      "image": "https://gateway.pinata.cloud/ipfs/Qmaw9wkC3igNjWXUSoDMuRqAW5fb5bGv3W3TaePhFF4xdZ",
+      "name": "Unrugged #1"
+    },
+    {
+      "id": 2,
+      "description": "Unrugged Member 2",
+      "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+      "image": "https://gateway.pinata.cloud/ipfs/Qmaw9wkC3igNjWXUSoDMuRqAW5fb5bGv3W3TaePhFF4xdZ",
+      "name": "Unrugged #2"
+    }
+  ]
